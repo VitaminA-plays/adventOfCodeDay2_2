@@ -1,0 +1,15 @@
+C:\Users\Axion\source\repos\adventOfCode2_2\adventOfCode2_2\bin\Debug\net6.0\adventOfCode2_2.exe
+C:\Users\Axion\source\repos\adventOfCode2_2\adventOfCode2_2\bin\Debug\net6.0\adventOfCode2_2.deps.json
+C:\Users\Axion\source\repos\adventOfCode2_2\adventOfCode2_2\bin\Debug\net6.0\adventOfCode2_2.runtimeconfig.json
+C:\Users\Axion\source\repos\adventOfCode2_2\adventOfCode2_2\bin\Debug\net6.0\adventOfCode2_2.dll
+C:\Users\Axion\source\repos\adventOfCode2_2\adventOfCode2_2\bin\Debug\net6.0\adventOfCode2_2.pdb
+C:\Users\Axion\source\repos\adventOfCode2_2\adventOfCode2_2\obj\Debug\net6.0\adventOfCode2_2.csproj.AssemblyReference.cache
+C:\Users\Axion\source\repos\adventOfCode2_2\adventOfCode2_2\obj\Debug\net6.0\adventOfCode2_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Axion\source\repos\adventOfCode2_2\adventOfCode2_2\obj\Debug\net6.0\adventOfCode2_2.AssemblyInfoInputs.cache
+C:\Users\Axion\source\repos\adventOfCode2_2\adventOfCode2_2\obj\Debug\net6.0\adventOfCode2_2.AssemblyInfo.cs
+C:\Users\Axion\source\repos\adventOfCode2_2\adventOfCode2_2\obj\Debug\net6.0\adventOfCode2_2.csproj.CoreCompileInputs.cache
+C:\Users\Axion\source\repos\adventOfCode2_2\adventOfCode2_2\obj\Debug\net6.0\adventOfCode2_2.dll
+C:\Users\Axion\source\repos\adventOfCode2_2\adventOfCode2_2\obj\Debug\net6.0\refint\adventOfCode2_2.dll
+C:\Users\Axion\source\repos\adventOfCode2_2\adventOfCode2_2\obj\Debug\net6.0\adventOfCode2_2.pdb
+C:\Users\Axion\source\repos\adventOfCode2_2\adventOfCode2_2\obj\Debug\net6.0\adventOfCode2_2.genruntimeconfig.cache
+C:\Users\Axion\source\repos\adventOfCode2_2\adventOfCode2_2\obj\Debug\net6.0\ref\adventOfCode2_2.dll
